@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run poseDetector.py
+web: sh setup.sh && streamlit run maskDetector.py
