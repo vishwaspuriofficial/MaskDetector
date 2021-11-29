@@ -1,7 +1,7 @@
 # MaskDetector
 A program that live detects if you are wearing a mask or not!
 
-It uses opencv and image analysis to detect the human's face and mainly the characteristics of a nose and mouth using machine learning models and uses the information to predict if user is wearing a mask or not
+It uses opencv and image analysis to detect the human's face and mainly the characteristics of a nose and mouth using machine learning models and uses the information to predict if user is wearing a mask or not.
 
 This program is made using python supported by streamlit.
 
